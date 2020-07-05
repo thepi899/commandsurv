@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	"GGG",
+    "GRG",
+    "GGG"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:command_block"
+    },
+    "G": {
+      "item": "minecraft:diamond_block"
+	  
+	}
+	},
+	  
+  "result": {
+    "item": "minecraft:barrier"
+  }
+}
